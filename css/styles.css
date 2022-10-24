@@ -101,6 +101,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
+  letter-spacing: 0.06em;
   color: var(--primary-white-color);
   background-color: var(--logo-primary-color);
 }
@@ -124,7 +125,6 @@ body {
   margin: -1px;
 }
 .subtitle {
-  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -155,9 +155,6 @@ body {
   font-weight: 500;
   color: var(--secondary-text-color);
 }
-.position {
-  font-weight: 400;
-}
 
 /* ------------Footer-------------- */
 
@@ -166,7 +163,6 @@ body {
 }
 .address {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -196,7 +192,6 @@ body {
   background-color: var(--logo-primary-color);
 }
 .projects .name {
-  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
